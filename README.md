@@ -54,4 +54,4 @@ Select an Android emulator or device and build and run the app. The example imag
 ![](img1.png)
 ![](img2.png)
 ![](img3.png)
-![](img3.png)
+![](img4.png)
